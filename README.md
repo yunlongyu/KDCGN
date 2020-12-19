@@ -2,7 +2,7 @@
 
 **Tensorflow** implementation of 'Knowledge Distillation Classifier Generation Network for Zero-Shot Learning'
 
-![image](https://github.com/yunlongyu/KDCGN/tree/main/imgs/fig1.png)
+![image](https://github.com/yunlongyu/KDCGN/blob/main/imgs/fig1.png)
 
 ## Preparation
 
